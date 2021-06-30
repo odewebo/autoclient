@@ -1,0 +1,23 @@
+{
+  "name": "@odewebo/autoclient",
+  "version": "0.0.1",
+  "description": "converts openapi to ts client",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/odewebo/autoclient.git"
+  },
+  "keywords": [
+    "openapi",
+    "swagger"
+  ],
+  "author": "Giovanni Cardamone <g.cardamone2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odewebo/autoclient/issues"
+  },
+  "homepage": "https://github.com/odewebo/autoclient#readme"
+}
